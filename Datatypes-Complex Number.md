@@ -28,4 +28,4 @@ print(x.imag)
 ![image](https://github.com/user-attachments/assets/bcba9711-2814-4862-8ccf-d441b7b5e125)
 
 ## Result
-Thus the program has been successfully executed
+Thus the program has been successfully executed.
